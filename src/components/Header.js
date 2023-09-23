@@ -4,7 +4,7 @@ import abc from './assets/Netflix-Logo.png';
 
 const Header = () => {
   return (
-    <div className='bg-[url("https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg")] object-cover min-h-[690px] bg-cover'>
+    <div className='bg-[url("https://www.whats-on-netflix.com/wp-content/uploads/2021/08/netflix-library-photo-scaled.jpg")]  min-h-[690px] bg-cover'>
       <div className='min-h-[690px] bg-black bg-opacity-70 bg-cover'>
         <div className='flex justify-around items-center text-white'>
           <div className=''>
