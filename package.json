@@ -1,6 +1,6 @@
 {
-  "homepage": "https://panteliza.github.io/Netflix-clone-",
-  "name": "react-cart",
+ 
+  "name": "netflix-clone",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
