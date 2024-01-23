@@ -12,7 +12,7 @@ export default function App() {
       
       <BrowserRouter>
       <Routes>
-        <Route path='/Netflix-clone-' element={<Home/>}/>
+        <Route path='/' element={<Home/>}/>
         <Route path='/login' element={<Signin/>}/>
         <Route path='/login/movies' element={<Movies/>}/>
         <Route path='/login/movies/video' element={<Play/>}/>
